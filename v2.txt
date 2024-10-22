@@ -9,3 +9,5 @@
  stash being saved again due to some error
 
  new line ...
+
+ new line in feature-branch for custom message 
