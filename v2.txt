@@ -7,3 +7,5 @@
  stash save being done now
 
  stash being saved again due to some error
+
+ new line ...
